@@ -9,8 +9,9 @@
 ---
 ### Решение 1
 [Cхемa](files/1/hsrp_advanced.pkt) в формате pkt. 
-![Скриншот 1](<img width="515" height="516" alt="1" src="https://github.com/user-attachments/assets/9d87b0b7-260b-447e-bc67-916bc7f6083a" />)
-![Скриншот 2](<img width="438" height="515" alt="2" src="https://github.com/user-attachments/assets/8bb11c07-0775-403d-b88a-565994aa5e66" />)
+
+<img width="515" height="516" alt="1" src="https://github.com/user-attachments/assets/9d87b0b7-260b-447e-bc67-916bc7f6083a" />
+<img width="438" height="515" alt="2" src="https://github.com/user-attachments/assets/8bb11c07-0775-403d-b88a-565994aa5e66" />
 
 ---
 ### Задание 2
@@ -23,8 +24,8 @@
 [Файл bash скрипта](files/2/port-page-check.sh)
 [Файл keepalived.conf](files/2/keepalived.conf)
 Скриншоты с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html:
-![Скриншот 3](<img width="880" height="547" alt="3" src="https://github.com/user-attachments/assets/6c29be3a-1738-490f-a7bf-08edb37fd973" />)
-![Скриншот 4](<img width="941" height="537" alt="4" src="https://github.com/user-attachments/assets/36d74506-0894-48b5-a6de-dae41493241b" />)
-![Скриншот 5](<img width="773" height="465" alt="5" src="https://github.com/user-attachments/assets/b422c05e-03cd-47f1-a7de-9635abe76001" />)
-![Скриншот 6](<img width="964" height="570" alt="6" src="https://github.com/user-attachments/assets/c745543d-565f-46cd-8164-70f6b3095755" />)
+<img width="880" height="547" alt="3" src="https://github.com/user-attachments/assets/6c29be3a-1738-490f-a7bf-08edb37fd973" />
+<img width="941" height="537" alt="4" src="https://github.com/user-attachments/assets/36d74506-0894-48b5-a6de-dae41493241b" />
+<img width="773" height="465" alt="5" src="https://github.com/user-attachments/assets/b422c05e-03cd-47f1-a7de-9635abe76001" />
+<img width="964" height="570" alt="6" src="https://github.com/user-attachments/assets/c745543d-565f-46cd-8164-70f6b3095755" />
 ---
