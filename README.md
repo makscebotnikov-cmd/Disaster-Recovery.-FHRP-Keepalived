@@ -8,7 +8,7 @@
 - На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 ---
 ### Решение 1
-[Cхемa](files/1/hsrp_advanced.pkt) в формате pkt. 
+[Cхемa](hsrp_advanced.pkt) в формате pkt. 
 
 <img width="515" height="516" alt="1" src="https://github.com/user-attachments/assets/9d87b0b7-260b-447e-bc67-916bc7f6083a" />
 <img width="438" height="515" alt="2" src="https://github.com/user-attachments/assets/8bb11c07-0775-403d-b88a-565994aa5e66" />
