@@ -28,7 +28,6 @@
 
 [Файл keepalived.conf](keepalived.conf)
 
-Скриншоты с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html:
 <img width="880" height="547" alt="3" src="https://github.com/user-attachments/assets/6c29be3a-1738-490f-a7bf-08edb37fd973" />
 <img width="941" height="537" alt="4" src="https://github.com/user-attachments/assets/36d74506-0894-48b5-a6de-dae41493241b" />
 <img width="773" height="465" alt="5" src="https://github.com/user-attachments/assets/b422c05e-03cd-47f1-a7de-9635abe76001" />
